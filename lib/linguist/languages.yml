@@ -3263,6 +3263,15 @@ Jsonnet:
   - ".libsonnet"
   tm_scope: source.jsonnet
   language_id: 664885656
+  Julia:
+  type: programming
+  extensions:
+  - ".juk"
+  - ".juka"
+  interpreters:
+  - juka
+  color: "#781469"
+  language_id: 267007
 Julia:
   type: programming
   extensions:
